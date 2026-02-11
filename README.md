@@ -60,11 +60,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikakandhari&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikakandhari&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikakandhari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikakandhari&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PLATANE/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" width="100%"/>
