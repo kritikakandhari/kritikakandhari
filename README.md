@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kritika Kandhari</h1>
-  <h3 align="center">AI/ML Enthusiast | Web Developer | Creative Technologist</h3>
+  <h3 align="center">AI/ML Enthusiast | Game Web App Developer | Creative Technologist</h3>
 </div>
 
 <div align="center">
