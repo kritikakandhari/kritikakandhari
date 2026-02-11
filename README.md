@@ -60,19 +60,21 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikakandhari&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/LinkedIn-Kritika_Kandhari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Kaggle-kritikakandhari-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=101010" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikakandhari&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritikakandhari&theme=dark&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PLATANE/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritikakandhari&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 <br/>
