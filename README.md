@@ -5,9 +5,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dummy/giphy.gif" alt="Coding GIF" width="100%">
-  <!-- Note: I will replace this with a working pixel art GIF URL in the final step or use a reliable one -->
-  <!-- Trying a specific reliable one commonly used -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-0be45df8-1422-4919-ab83-4ee2df860a2b.gif" alt="Pixel Art Coding" width="100%">
+  <!-- Replaced with reliable Mario Coder GIF -->
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Pixel Art Coding" width="100%">
 </div>
 
 <br/>
