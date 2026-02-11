@@ -4,8 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dummy/giphy.gif" alt="Coding GIF" width="100%">
-  <!-- Replaced with reliable Mario Coder GIF -->
+  <!-- Pixel Art Coding GIF -->
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Pixel Art Coding" width="100%">
 </div>
 
@@ -61,5 +60,8 @@
   </a>
   <a href="https://github.com/kritikakandhari" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.kaggle.com/kritikakandhari" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </div>
