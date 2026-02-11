@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kritika+Kandhari;Tudalllsss!!" alt="Typing SVG" />
-  <h3 align="center">AI/ML Enthusiast &nbsp;•&nbsp; Web App Developer &nbsp;•&nbsp; Creative Technologist</h3>
+  <h3 align="center">AI/ML Enthusiast &nbsp;•&nbsp; Website & App Developer &nbsp;•&nbsp; Creative Technologist</h3>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  🚀 &nbsp; Exploring the frontiers of <b>AI/ML</b> & <b>Game Web App Development</b> <br/>
+  🚀 &nbsp; Exploring the frontiers of <b>AI/ML</b> & <b>Website & App Developer</b> <br/>
   🎓 &nbsp; Computer Science Undergraduate @ <b>Thapar Institute</b> <br/>
   🎨 &nbsp; Fine Arts Head @ <b>FAPS</b> &nbsp;|&nbsp; 💼 &nbsp; Management Head @ <b>MLSC</b> <br/>
   💻 &nbsp; Passionate about building real-world tech solutions that blend <b>functionality</b> with <b>user experience</b>.
