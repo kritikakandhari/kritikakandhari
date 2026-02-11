@@ -11,10 +11,10 @@
 <br/>
 
 <div align="center">
-  🚀 &nbsp; Exploring the frontiers of **AI/ML** & **Web Development** <br/>
+  🚀 &nbsp; Exploring the frontiers of **AI/ML** & **Game Web App Development** <br/>
   🎓 &nbsp; Computer Science Undergraduate @ **Thapar Institute** <br/>
   🎨 &nbsp; Fine Arts Head @ **FAPS** &nbsp;|&nbsp; 💼 &nbsp; Management Head @ **MLSC** <br/>
-  💻 &nbsp; Passionate about building real-world tech solutions that blend functionality with user experience.
+  💻 &nbsp; Passionate about building real-world tech solutions that blend <b>functionality</b> with <b>user experience</b>.
 </div>
 
 <br/>
